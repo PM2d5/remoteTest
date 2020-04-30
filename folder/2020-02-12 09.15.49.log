@@ -1,0 +1,5 @@
+2020-02-12 09:15:49 INFO:n = 1
+2020-02-12 09:15:49 INFO:Start print log
+2020-02-12 09:15:49 DEBUG:再
+2020-02-12 09:15:49 WARNING:Something maybe fail.
+2020-02-12 09:15:49 INFO:Finish
